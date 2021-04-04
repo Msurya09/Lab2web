@@ -87,5 +87,4 @@ contoh
 
 ![gambar 15](screenshoot/jawaban.png)
 
-
 pada contoh diatas kotak 1,2,3 kita beri tanda dengan class yang diberi nama "kotak" dan kotak 4 kita beri dengan tanda id dengan nama kotak juga. maka perbedaannya akan tampak bahwa class bisa dipanggil sekaligus sedangkan id hanya 1
