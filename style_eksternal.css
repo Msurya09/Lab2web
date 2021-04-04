@@ -11,8 +11,8 @@ nav {
     nav .active, nav a:hover {
     background: #d4d4d4;
     }
-    
-    /* ID Selector */
+
+        /* ID Selector */
 #intro {
     
     min-height: 100px;
@@ -21,7 +21,7 @@ nav {
     #intro h1 {
     text-align: left;
     border: 0;
-    color: #fff;
+    color: rgb(0, 0, 0);
     }
     
     /* Class Selector */
