@@ -31,7 +31,7 @@ Buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS
 ![gambar 7](screenshoot/code3.png)
 
 akan terlihat hasilnya seperti dibawah ini
-![gambar 8](screenshoot/code3.png)
+![gambar 8](screenshoot/hasil3.png)
 
 Kemudian tambahkan tag <link> untuk merujuk file css yang sudah dibuat pada bagian <head>
 
