@@ -4,4 +4,4 @@
 
 Membuat Dokumen HTML
 Ini adalah tampilannya
-![gambar1]
+![gambar 1](screenshoot/hasil1.png)
