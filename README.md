@@ -16,9 +16,9 @@ akan terlihat hasilnya seperti dibawah ini
 
 Menambahkan Inline CSS
 Kemudian tambahkan deklarasi inline CSS pada tag <p> seperti berikut.
-![gambar 5](screenshoot/code1.png)
+![gambar 5](screenshoot/code11.png)
 akan terlihat hasilnya seperti dibawah ini
-![gambar 6](screenshoot/hasil1.png)
+![gambar 6](screenshoot/hasil11.png)
 
 Membuat CSS Eksternal
 Buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS seperti berikut
@@ -27,9 +27,9 @@ akan terlihat hasilnya seperti dibawah ini
 ![gambar 8](screenshoot/code3.png)
 
 Kemudian tambahkan tag <link> untuk merujuk file css yang sudah dibuat pada bagian <head>
-![gambar 9](screenshoot/code2.png)
+![gambar 9](screenshoot/code12.png)
 akan terlihat hasilnya seperti dibawah ini
-![gambar 10](screenshoot/hasil2.png)
+![gambar 10](screenshoot/hasil12.png)
 
 Menambahkan CSS Selector
 Selanjutnya   menambahkan   CSS   Selector   menggunakan   ID   dan   Class   Selector.   Pada   file
