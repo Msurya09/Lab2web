@@ -85,6 +85,6 @@ Class dan ID bisa digunakan oleh internal stylesheet Tidak perlu meng-upload beb
 4. Perbedaan dari class dan id adalah kelebihan unggul dari class yaitu dapat diberikan pada banyak element html dan dapat dipanggil sekaligus sedangkan id hanya dapat bekerja pada satu penandaan saja, maksudnya satu nama id hanya bisa id berikan pada satu element 
 contoh 
 
-![gambar 15](jawaban4.png)
+![gambar 15](screenshoot/hasi99.png)
 
 pada contoh diatas kotak 1,2,3 kita beri tanda dengan class yang diberi nama "kotak" dan kotak 4 kita beri dengan tanda id dengan nama kotak juga. maka perbedaannya akan tampak bahwa class bisa dipanggil sekaligus sedangkan id hanya 1
