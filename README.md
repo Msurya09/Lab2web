@@ -48,3 +48,11 @@ style_eksternal.css, tambahkan kode berikut.
 
 akan terlihat hasilnya seperti dibawah ini
 ![gambar 12](screenshoot/hasil4.png)
+
+selanjutnya saya mencoba menambahkan background full
+dengan memasukan code dibawah ini
+
+![gambar 13](screenshoot/code5.png)
+
+maka akan tampil seperti ini
+![gambar 14](screenshoot/hasil5.png)
