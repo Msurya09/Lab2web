@@ -22,7 +22,7 @@ akan terlihat hasilnya seperti dibawah ini
 ![gambar 4](screenshoot/hasil2.png)
 
 Menambahkan Inline CSS
-Kemudian tambahkan deklarasi inline CSS pada tag <p> seperti berikut.
+Kemudian tambahkan deklarasi inline CSS pada tag `<p>` seperti berikut.
 
 ![gambar 5](screenshoot/code11.png)
 
@@ -39,7 +39,7 @@ akan terlihat hasilnya seperti dibawah ini
 
 ![gambar 8](screenshoot/hasil3.png)
 
-Kemudian tambahkan tag <link> untuk merujuk file css yang sudah dibuat pada bagian <head>
+Kemudian tambahkan tag `<link>` untuk merujuk file css yang sudah dibuat pada bagian `<head>`
 
 ![gambar 9](screenshoot/code12.png)
 
@@ -74,7 +74,7 @@ dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul
 #3.    Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada
 elemen  yang  sama.  Deklarasi  manakah  yang  akan  ditampilkan  pada  browser?  Berikan penjelasan dan contohnya!
 #4.    Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut
-terdapat  deklarasi  CSS,  maka  deklarasi  manakah  yang  akan  ditampilkan  pada  browser? Berikan penjelasan dan contohnya!    ( <p id="paragraf-1" class="text-paragraf"> )
+terdapat  deklarasi  CSS,  maka  deklarasi  manakah  yang  akan  ditampilkan  pada  browser? Berikan penjelasan dan contohnya!    ( `<p id="paragraf-1" class="text-paragraf">` )
 
 
 Jawaban 
