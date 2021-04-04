@@ -86,7 +86,7 @@ Class dan ID bisa digunakan oleh internal stylesheet Tidak perlu meng-upload beb
 contoh 
 pada contoh diatas kotak 1,2,3 kita beri tanda dengan class yang diberi nama "kotak" dan kotak 4 kita beri dengan tanda id dengan nama kotak juga. maka perbedaannya akan tampak bahwa class bisa dipanggil sekaligus sedangkan id hanya 1
 
-![Jawaban]
+![jawaban](screenshoot/hasil5.png)
 
 
 pada contoh diatas kotak 1,2,3 kita beri tanda dengan class yang diberi nama "kotak" dan kotak 4 kita beri dengan tanda id dengan nama kotak juga. maka perbedaannya akan tampak bahwa class bisa dipanggil sekaligus sedangkan id hanya 1
